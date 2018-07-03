@@ -1,6 +1,6 @@
 # Assignment 3
 
-I attempted this assignment in both [Python]() and [Java]()
+I attempted this assignment in both [Python](./TaskScheduler.py) and [Java](./net/datastructures/TaskScheduler.java)
 
 ### Background
 An embedded system is a computer system performing dedicated functions within a larger mechanical or electrical system. Embedded systems range from portable devices such as Google Glasses, to large stationary installations like traffic lights, factory controllers, and complex systems like hybrid vehicles, and avionic. Typically, the software of an embedded system consists of a set of tasks (threads) with timing constraints. Typical timing constraints are release times and deadlines. A release time specifies the earliest time a task can start, and a deadline is the latest time by which a task needs to finish. One major goal of embedded system design is to find a feasible schedule for the task set such that all the timing constraints are satisfied.
